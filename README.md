@@ -4,7 +4,7 @@ Esta aplicación te permite calcular el promedio de tus notas escolares de maner
 
 ## Características
 
-- Ingreso dinámico de notas y ponderaciones
+- Ingreso dinámico de notas 
 - Cálculo automático del promedio
 - Interfaz intuitiva y fácil de usar
 - Compatible con dispositivos móviles y escritorio
@@ -12,7 +12,7 @@ Esta aplicación te permite calcular el promedio de tus notas escolares de maner
 ## ¿Cómo usar?
 
 1. Ingresa cada una de tus notas y, si corresponde, su ponderación.
-2. Haz clic en **Calcular promedio**.
+2. Haz clic en **Calcular**.
 3. El resultado se mostrará automáticamente.
 
 ## Live Preview
